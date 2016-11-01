@@ -1,2 +1,2 @@
 # vpAssistant
-assistant for user web application
+assistant for your web application
